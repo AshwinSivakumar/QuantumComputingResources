@@ -12,3 +12,6 @@ Resources for learning Quantum Computing and its applications. (Last Updated, No
 2. [Pennylane - Xanadu](https://pennylane.ai/qml/)
 3. [AWS Braket Getting Started](https://aws.amazon.com/braket/getting-started/)
 
+## Miscellaneous Resources
+1. [Quantum Clubs Could Be Your Ticket Into the Quantum Computing Field](https://medium.com/qiskit/quantum-clubs-could-be-your-ticket-into-the-quantum-computing-field-8a29541384fb)
+2. 
